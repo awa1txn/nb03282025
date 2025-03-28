@@ -2,7 +2,7 @@ import argparse
 import git
 import sys
 
-#####
+#
 
 def main():
     # Set up argument parsing
